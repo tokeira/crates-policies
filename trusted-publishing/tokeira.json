@@ -1,0 +1,11 @@
+{
+  "repository_owner": "tokeira",
+  "repository_name": "tokeira",
+  "workflow_filename": "release.yml",
+  "environment": "release",
+  "trustpub_only": false,
+  "crates": [
+    "tokeira-config",
+    "tokeira-engine"
+  ]
+}

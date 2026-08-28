@@ -1,0 +1,14 @@
+{
+  "repository_owner": "tokeira",
+  "repository_name": "tokeira-odori",
+  "workflow_filename": "release.yml",
+  "environment": "release",
+  "trustpub_only": false,
+  "crates": [
+    "odori",
+    "odori-agents",
+    "odori-engine",
+    "odori-mcp-bridge",
+    "odori-providers"
+  ]
+}
