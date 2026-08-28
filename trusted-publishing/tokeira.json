@@ -5,7 +5,22 @@
   "environment": "release",
   "trustpub_only": false,
   "crates": [
+    "tokeira-auth",
+    "tokeira-build-info",
+    "tokeira-chasm",
+    "tokeira-chasm-activity",
+    "tokeira-chasm-derive",
+    "tokeira-compatibility",
     "tokeira-config",
-    "tokeira-engine"
+    "tokeira-edge",
+    "tokeira-engine",
+    "tokeira-kernel",
+    "tokeira-managed-dsql",
+    "tokeira-observability",
+    "tokeira-projection",
+    "tokeira-proto",
+    "tokeira-runtime",
+    "tokeira-storage",
+    "tokeira-types"
   ]
 }
